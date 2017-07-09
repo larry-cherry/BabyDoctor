@@ -6,16 +6,15 @@
   "options": {
     "validateUpsert": true
   },
-    "locations": {
-      "type": [
-        "string"
-      ],
-      "required": true
-    },
-    "spy": {
-      "type": "number",
-      "required": true
-    }
+  "locations": {
+    "type": [
+      "string"
+    ],
+    "required": true
+  },
+  "spy": {
+    "type": "number",
+    "required": true
   },
   "validations": [],
   "relations": {},
