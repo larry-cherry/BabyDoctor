@@ -35,12 +35,16 @@
     "dataSource": "db",
     "public": false
   },
-  "Game": {
-    "dataSource": "db",
+  "session": {
+    "dataSource": "LocalMongo",
     "public": true
   },
-  "Session": {
-    "dataSource": "db",
+  "game": {
+    "dataSource": "LocalMongo",
+    "public": true
+  },
+  "spyfallTemplate": {
+    "dataSource": "LocalMongo",
     "public": true
   }
 }

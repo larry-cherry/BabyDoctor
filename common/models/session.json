@@ -1,6 +1,6 @@
 {
-  "name": "Session",
-  "plural": "Sessions",
+  "name": "session",
+  "plural": "sessions",
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
@@ -8,10 +8,9 @@
   },
   "properties": {
     "players": {
-      "type": "object",
-      "required": true
+      "type": "object"
     },
-    "state": {
+    "status": {
       "type": "number",
       "required": true,
       "default": 0
