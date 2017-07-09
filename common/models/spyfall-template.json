@@ -1,0 +1,24 @@
+{
+  "name": "spyfallTemplate",
+  "plural": "spyfallTemplates",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+    "locations": {
+      "type": [
+        "string"
+      ],
+      "required": true
+    },
+    "spy": {
+      "type": "number",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

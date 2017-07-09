@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "LocalMongo": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "boardplay",
+    "password": "",
+    "name": "LocalMongo",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
