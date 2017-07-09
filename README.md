@@ -2,7 +2,7 @@
 
 ## What is it?
 
-* Board Play is a social web app that brings the experience of a real life card or board game to your phone. Play around a table with friends and even build your custom games with easy to use templates. Using the latest technologies, we provide user-friendly environment and easy to navigate interface.
+* Board Play is a social web app that brings the experience of a real life card or board game to your phone. Play around a table with friends and even build your custom games with easy to use templates. Using the latest technologies, we provide user-friendly environment and easy to navigate interface on our app.
 
 ## Technologies Used
 
