@@ -11,9 +11,16 @@
       "type": "object"
     },
     "status": {
-      "type": "number",
-      "required": true,
-      "default": 0
+      "type": "object",
+      "required": false,
+      "default": {
+        "state": 0,
+        "location": "no location"
+      },
+      "code": {
+        "type": "string",
+        "required": true
+      }
     }
   },
   "validations": [],
